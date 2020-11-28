@@ -218,7 +218,7 @@ const Theme = {
     blueGray400: '#78909c',
     blueGray500: '#607d8b',
     blueGray600: '#546e7a',
-    blueGray700: '#455a64',
+    blueGray700: '#1C2531',
     blueGray800: '#18202B',
     blueGray900: '#0B1623',
     black50: '#242424',
